@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Cyber Security
+- 🔭 I am currently working as a security analyst at @convisoappsec. 
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: haonenakano@hotmail.com
 
