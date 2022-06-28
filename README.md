@@ -2,7 +2,7 @@
 
 - 🔭 I am currently working as a security analyst at @convisoappsec. 
 - 🌱 I’m currently learning Python
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/haone-nakano/">Linkedin<\a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/haone-nakano/">Linkedin
 
 <div>
   <a href="https://github.com/HaoneNakano">
