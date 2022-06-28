@@ -2,7 +2,7 @@
 
 - 🔭 I am currently working as a security analyst at @convisoappsec. 
 - 🌱 I’m currently learning Python
-- 📫 How to reach me: haonenakano@hotmail.com
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/haone-nakano/">Linkedin<\a>
 
 <div>
   <a href="https://github.com/HaoneNakano">
@@ -20,7 +20,6 @@
  ##
   
 <div> 
-  <a href = "mailto:haonenakano@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/haone-nakano/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 
