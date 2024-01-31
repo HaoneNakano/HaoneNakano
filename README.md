@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I am currently working as a security analyst at @convisoappsec. 
-- 🌱 I’m currently learning Python
+- 🔭 I am currently working. 
+- 🌱 I’m currently learning
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/haone-nakano/">Linkedin
 
 <div>
